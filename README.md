@@ -3,7 +3,7 @@
 The TestNG **has a default value of** `thread = 5` for parallel testing.
 To override the thread values use `-DthreadPoolSize=3 -Ddataproviderthreadcount=3` in the below maven command
 
-**1. Clone the Repository**
+**1. git clone https://github.com/prashant-sugumaran/ApiTestFramework.git**
 
 **2. cd ApiTestFramework**
 
